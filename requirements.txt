@@ -26,6 +26,7 @@ mutagen
 markdown
 natsort
 pillow
+pytz
 psutil
 pybase64
 pycountry
